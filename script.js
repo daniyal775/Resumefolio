@@ -205,7 +205,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 // Uncomment this section if you want a typing effect on the hero subtitle
 
-/*
+
 const subtitleElement = document.querySelector('.hero-subtitle');
 const subtitles = [
     'Full Stack Developer',
@@ -246,7 +246,7 @@ function typeEffect() {
 
 // Start typing effect
 // typeEffect();
-*/
+
 
 // ==================== CONSOLE MESSAGE ====================
 
